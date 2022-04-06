@@ -1,0 +1,2 @@
+Version problem : https://github.com/amalshaji/style-transfer/pull/3/commits/ea6bf5f12724f747e0fd8e6f133118ebe8673ace
+Docker gcc issue : https://github.com/watson-developer-cloud/python-sdk/issues/418
