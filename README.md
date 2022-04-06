@@ -1,5 +1,6 @@
 ### Neural Style Transfer
 [Perceptual Losses for Real-Time Style Transferand Super-Resolution](https://cs.stanford.edu/people/jcjohns/eccv16/)
+[Perceptual Losses](https://towardsdatascience.com/perceptual-losses-for-image-restoration-dd3c9de4113)
 #### Tools used
 - FastAPI: for the API
 - streamlit : for the interface
